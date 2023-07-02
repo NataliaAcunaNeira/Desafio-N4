@@ -1,0 +1,22 @@
+.color{
+    background-color: #28A745
+    ;
+}
+.texto{
+    text-align: left;
+}
+.texto2{
+    text-align:end;
+}
+.color_precio{
+    color: #212529;
+}
+.color_precio2{
+    color: #28A745;
+}
+.color_boton{
+    color: white;
+}
+a.navbar-brand, a.nav-link {
+    color: white;
+}
